@@ -1,0 +1,47 @@
+Aryan Dabas
+LinkedIn : aryan-dabas-559827219                                                     Email : aryandabas65@gmail.com
+GitHub : https://github.com/aryandabas17                                           Contact No: 9773968112
+SKILLS SUMMARY
+____________________________________________________________________________________
+• Languages:    Java, C, C++, Python, JavaScript
+• Frameworks: HTML and CSS, Spring boot, MVC
+• Tools/Platforms: GitHub, VS Code, MySQL
+• Soft Skills: Leadership, Problem-Solving Skills, Communication, Adaptability
+EXPERIENCE
+____________________________________________________________________________________
+Intern | Indira Gandhi Institute of Technology, New Delhi                                    3rd June – 29th July 2024
+o Worked on machine learning projects involving data preprocessing, model building, and performance
+     evaluation. Utilized Python, TensorFlow, and Pandas to develop accurate predictive models, and 
+     collaborated with a team to analyse datasets and implement machine learning solutions for real-world
+     applications.
+PROJECTS
+____________________________________________________________________________________
+• Hospital Management System 
+-
+I developed a Hospital Management System (HMS) in Java to streamline hospital operations such as
+ patient management, doctor scheduling, billing, and appointment booking. The system uses a 
+MySQL database to store patient and staff records securely. It features a user authentication system
+ for admins, doctors, and receptionists, allowing them to manage appointments, generate invoices, and
+ track medical inventory efficiently. By automating these processes, my HMS improves hospital workflow,
+ reduces paperwork, and enhances patient care.Research Paper (Unpublished)
+-   Identification of the Best Machine Learning Algorithm for Breast Cancer Detection.
+CERTIFICATIONS
+____________________________________________________________________________________
+• Python for Data Science, IBM
+• Python Training Certificate, IIT Bombay
+• MongoDB Course Competition Certificate
+• Introduction to Java – Solo learn
+• Java Course Completion – Scaler 
+EDUCATION
+____________________________________________________________________________________
+• Dronacharya College of Engineering                                                                       Gurugram, India
+     Bachelor of Technology – Computer Science and Engineering with AI&ML Specialization
+CO-CURRICULAR ACTIVITIES
+____________________________________________________________________________________
+• I have actively engaged in a diverse range of co-curricular pursuits that have enriched my leadership 
+and teamwork abilities. As the Event Management Head for almost a year, I orchestrated successful 
+gatherings, refining my organizational and communication skills. I also have singing skills and actively
+ take part in cultural activities. Additionally, I volunteered with the RIS Department for the G20 
+University Connect event, where PM Modi made a physical presence. Furthermore, I attended a 10-day 
+adventure camp in Manali under the Government of Himachal Pradesh. These experiences have sculpted 
+me into a well-rounded  individual, primed to contribute effectively in any setting.
