@@ -1,6 +1,11 @@
+import sys
+import os
+# Temporary change to force redeploy
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
-from backend.app.services import ingest, summarize, query
+from app.services import ingest, summarize, query
+
 import os
 
 app = FastAPI()
