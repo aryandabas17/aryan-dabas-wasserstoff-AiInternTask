@@ -36,30 +36,30 @@ This project is part of the **Wasserstoff AI Internship Task**. It’s an AI-pow
 ```bash
 git clone https://github.com/aryandabas17/aryan-dabas-wasserstoff-AiInternTask.git
 cd aryan-dabas-wasserstoff-AiInternTask
-
+```
 ### 2. Create and activate virtual environment (Windows)
 ```bash
 python -m venv env
 env\Scripts\activate
-
+```
 ### 3. Install dependencies
 ```bash
 pip install -r aryan-dabas/requirements.txt
-
+```
 ### 4. Install Tesseract OCR
 ```bash
 Download & install: Tesseract GitHub Release
 Then update the following line in ingest.py:
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
+```
 ### 5. Install & Run Ollama
 ```bash
 ollama run gemma:2b
 ollama pull mistral:7b-instruct
-
+```
 ### 6. Run the Streamlit app
 ```bash
 streamlit run aryan-dabas/streamlit_app.py
-
+```
 ### 📍Note: Make sure your ollama server is running, and you’ve pulled the required models before opening the app.
 
