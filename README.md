@@ -63,5 +63,8 @@ streamlit run aryan-dabas/streamlit_app.py
 ```
 🌐 Hosted Demo: [https://a1b2c3d4e5.ngrok-free.app](https://a1b2c3d4e5.ngrok-free.app)
 
+🎥 Explanation Video: [Watch on Google Drive](https://drive.google.com/file/d/1665OG7UMyQnMN4sOvhZdoTUgD4iaWLkO/view?usp=sharing)
+
+
 ### 📍Note: Make sure your ollama server is running, and you’ve pulled the required models before opening the app.
 
